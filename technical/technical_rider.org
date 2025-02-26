@@ -1,0 +1,18 @@
+#+OPTIONS: toc:nil
+* technical rider
+- datum: 2025-02-26
+- version: 0.1
+- notizen: siehe auch Skizze "AGF_ motu-stage-layout _v1.pdf"
+
+** on-location
+- 1x Stromanschluss 230V
+- 1x Internetanschluss mit LAN/Ethernetkabel (kein Hotspot)
+- 1x Beamer mit HDMI oder Displayportkabel (DP) und einer Auflösung von 1920x1080 px
+- 1x Monitor, Tastatur, Maus (als Backup für Wartung PC)
+- 1xPA mit 4 separat ansteuerbaren Lautsprechern im Frequenzbereich 30 Hz - 20 kHz mit 4 Line-Eingängen (6.3 mm Klinke), optional mit DI-Boxen (Größe entsprechend Raumgröße, siehe auch Skizze)
+- 4x Klinkenkabel (6,3 mm mono) in entsprechender Länge um PC mit PA zu verbinden (siehe Skizze)
+- optional: 2x Stereo DI-Box und 4 XLR Kabel um 4x Klinke auf symetrische Eingänge zu führen.
+** Künstler bringt mit
+- 1x kompakter PC samt Netzteil für A/V Performance
+- 1x Audio-interface mit 4 Ausgängen
+- 1x USB Kabel zur Verbindung PC-Interface
